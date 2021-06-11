@@ -1,0 +1,5 @@
+C:\Users\David\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.csproj.AssemblyReference.cache
+C:\Users\David\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\David\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.AssemblyInfo.cs
+C:\Users\David\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\net5.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
